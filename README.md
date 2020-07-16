@@ -1,1 +1,1 @@
-# Iris
+# Iris flower class type prediction
